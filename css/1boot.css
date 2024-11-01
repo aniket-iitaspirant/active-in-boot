@@ -1,0 +1,26 @@
+.header{
+    background-color: blue;
+    height: 100px;
+}
+
+.leftdiv{
+    background-color: brown;
+    height: 200px;
+}
+
+.rightdiv{
+    background-color: greenyellow;
+    height: 200px;
+
+}
+
+.footer{
+    background-color: blue;
+    height: 100px;
+}
+
+
+.middlediv{
+    background-color: green;
+    height: 200px;
+}
